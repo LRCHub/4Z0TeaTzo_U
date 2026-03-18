@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "93 'Til Infinity",
+  "base_artist": "Souls Of Mischief",
+  "createdAt": "2026-03-18T00:51:34.249369Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New York 93 (Single Version)",
+      "artist": "Yaeji",
+      "has_synced": false,
+      "path": "select/01_New_York_93_(Single_Version)_Yaeji.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Freak Out (Dj Kenny Mitchell Rewind 93 Remix",
+      "artist": "My Brightest Diamond featuring Nimnomadic)",
+      "has_synced": false,
+      "path": "select/02_Freak_Out_(Dj_Kenny_Mitchell_Rewind_93_Remix_My_Brightest_Diamond_featuring_Nimnomadic).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Freak Out (Dj Kenny Mitchell Rewind 93 Remix Feat. Nimnomadic)",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/03_Freak_Out_(Dj_Kenny_Mitchell_Rewind_93_Remix_Feat._Nimnomadic)_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gravity Grave - Live Glastonbury 93",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/04_Gravity_Grave_-_Live_Glastonbury_93_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gravity Grave [Live Glastonbury 93]",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/05_Gravity_Grave_[Live_Glastonbury_93]_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maria Magdalena '93 (club mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/06_Maria_Magdalena_'93_(club_mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Maria Magdalena '93 (clubmix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/07_Maria_Magdalena_'93_(clubmix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maria Magdalena '93 (radio edit)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/08_Maria_Magdalena_'93_(radio_edit)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "93 Million Miles",
+      "artist": "Africa Hitech",
+      "has_synced": false,
+      "path": "select/09_93_Million_Miles_Africa_Hitech.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Stop the Music '93 (remix)",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/10_Can't_Stop_the_Music_'93_(remix)_Village_People.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In the Navy '93 (remix)",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/11_In_the_Navy_'93_(remix)_Village_People.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Macho Man '93 (remix)",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/12_Macho_Man_'93_(remix)_Village_People.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Y.M.C.A. ('93 remix)",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/13_Y.M.C.A._('93_remix)_Village_People.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Y.M.C.A. (Pwl remix 93)",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/14_Y.M.C.A._(Pwl_remix_93)_Village_People.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Midijunkies (remix 93)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/15_Midijunkies_(remix_93)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Midijunkies (Remix '93)",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/16_Midijunkies_(Remix_'93)_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "After All... - Demo '93",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/17_After_All..._-_Demo_'93_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Figured Out - Demo '93",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/18_I_Figured_Out_-_Demo_'93_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "December '93",
+      "artist": "Eric's Trip",
+      "has_synced": false,
+      "path": "select/19_December_'93_Eric's_Trip.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "93 'Til Infinity",
+      "artist": "Souls Of Mischief",
+      "has_synced": false,
+      "path": "select/pl_01_93_'Til_Infinity_Souls_Of_Mischief.txt"
+    }
+  ]
+}
